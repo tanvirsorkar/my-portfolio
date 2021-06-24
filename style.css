@@ -37,7 +37,7 @@ section{
     font-weight: 700px;
 }
 .dream-area{
-    background-image: url(img/dream-bg.png);
+    background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position:right;
 }
@@ -48,7 +48,7 @@ section{
     background-color: white;
 }
 .experience{
-    background-image: url(img/exp-bg.png);
+    background-image: url(exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
